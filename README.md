@@ -1,1 +1,1 @@
-# my-website
+# Ma&Mg Web
